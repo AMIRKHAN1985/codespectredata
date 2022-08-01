@@ -1,5 +1,5 @@
 # codespectre
-Full responsive WebApp to learn various Languages , Framework , Web development, Machine Learning
+Full Responsive WebApp to learn various Languages , Framework , Web development, Machine Learning
 
 App Link:
 
